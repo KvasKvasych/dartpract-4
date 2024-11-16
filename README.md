@@ -1,5 +1,5 @@
 # dartpract-4
-<br><strong>Задание № 1: </strong>Простой future</br>
+<br><strong>Задание № 1: </strong>Простой future</br> 
 ![](https://github.com/kvaskvasych/dartpract-4/raw/main/practdart4/1.jpg)
 <br><strong>Задание № 2: </strong>Использование async/await</br>
 ![](https://github.com/kvaskvasych/dartpract-4/raw/main/practdart4/2.jpg)
